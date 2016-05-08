@@ -1,0 +1,142 @@
+   <Object type="0xADDTYPEHERE" id="ADD NAME HERE">
+      <Skin/>
+      <Class>Skin</Class>
+      <AnimatedTexture>
+         <File>playerskins</File>
+         <Index>40</Index>
+      </AnimatedTexture>
+      <PlayerClassType>0x0326</PlayerClassType>
+      <UnlockSpecial>DESCRIPTION</UnlockSpecial>
+      <DisplayId>{skins.NAMEHERE}</DisplayId>
+   </Object>
+      <Object type="0xADDTYPEHERE" id="ADD NAME HERE">
+      <Skin/>
+      <Class>Skin</Class>
+      <AnimatedTexture>
+         <File>playerskins</File>
+         <Index>43</Index>
+      </AnimatedTexture>
+      <PlayerClassType>0x031e</PlayerClassType>
+      <UnlockSpecial>DESCRIPTION</UnlockSpecial>
+      <DisplayId>{skins.NAMEHERE}</DisplayId>
+   </Object>
+      <Object type="0xADDTYPEHERE" id="ADD NAME HERE">
+      <Skin/>
+      <Class>Skin</Class>
+      <AnimatedTexture>
+         <File>playerskins</File>
+         <Index>45</Index>
+      </AnimatedTexture>
+      <PlayerClassType>0x0321</PlayerClassType>
+      <UnlockSpecial>DESCRIPTION</UnlockSpecial>
+      <DisplayId>{skins.NAMEHERE}</DisplayId>
+   </Object>
+   </Object>
+      <Object type="0xADDTYPEHERE" id="ADD NAME HERE">
+      <Skin/>
+      <Class>Skin</Class>
+      <AnimatedTexture>
+         <File>playerskins</File>
+         <Index>61</Index>
+      </AnimatedTexture>
+      <PlayerClassType>0x030e</PlayerClassType>
+      <UnlockSpecial>DESCRIPTION</UnlockSpecial>
+      <DisplayId>{skins.NAMEHERE}</DisplayId>
+   </Object>
+   </Object>
+      <Object type="0xADDTYPEHERE" id="ADD NAME HERE">
+      <Skin/>
+      <Class>Skin</Class>
+      <AnimatedTexture>
+         <File>playerskins</File>
+         <Index>62</Index>
+      </AnimatedTexture>
+      <PlayerClassType>0x0324</PlayerClassType>
+      <UnlockSpecial>DESCRIPTION</UnlockSpecial>
+      <DisplayId>{skins.NAMEHERE}</DisplayId>
+   </Object>
+   </Object>
+      <Object type="0xADDTYPEHERE" id="ADD NAME HERE">
+      <Skin/>
+      <Class>Skin</Class>
+      <AnimatedTexture>
+         <File>playerskins</File>
+         <Index>63</Index>
+      </AnimatedTexture>
+      <PlayerClassType>0x0320</PlayerClassType>
+      <UnlockSpecial>DESCRIPTION</UnlockSpecial>
+      <DisplayId>{skins.NAMEHERE}</DisplayId>
+   </Object>
+   </Object>
+      <Object type="0xADDTYPEHERE" id="ADD NAME HERE">
+      <Skin/>
+      <Class>Skin</Class>
+      <AnimatedTexture>
+         <File>playerskins</File>
+         <Index>45</Index>
+      </AnimatedTexture>
+      <PlayerClassType>0x0321</PlayerClassType>
+      <UnlockSpecial>DESCRIPTION</UnlockSpecial>
+      <DisplayId>{skins.NAMEHERE}</DisplayId>
+   </Object>
+   </Object>
+      <Object type="0xADDTYPEHERE" id="ADD NAME HERE">
+      <Skin/>
+      <Class>Skin</Class>
+      <AnimatedTexture>
+         <File>playerskins</File>
+         <Index>64</Index>
+      </AnimatedTexture>
+      <PlayerClassType>0x0323</PlayerClassType>
+      <UnlockSpecial>DESCRIPTION</UnlockSpecial>
+      <DisplayId>{skins.NAMEHERE}</DisplayId>
+   </Object>
+   </Object>
+      <Object type="0xADDTYPEHERE" id="ADD NAME HERE">
+      <Skin/>
+      <Class>Skin</Class>
+      <AnimatedTexture>
+         <File>playerskins</File>
+         <Index>65</Index>
+      </AnimatedTexture>
+      <PlayerClassType>0x0300</PlayerClassType>
+      <UnlockSpecial>DESCRIPTION</UnlockSpecial>
+      <DisplayId>{skins.NAMEHERE}</DisplayId>
+   </Object>
+   </Object>
+      <Object type="0xADDTYPEHERE" id="ADD NAME HERE">
+      <Skin/>
+      <Class>Skin</Class>
+      <AnimatedTexture>
+         <File>playerskins</File>
+         <Index>66</Index>
+      </AnimatedTexture>
+      <PlayerClassType>0x031f</PlayerClassType>
+      <UnlockSpecial>DESCRIPTION</UnlockSpecial>
+      <DisplayId>{skins.NAMEHERE}</DisplayId>
+   </Object>
+   </Object>
+      <Object type="0xADDTYPEHERE" id="ADD NAME HERE">
+      <Skin/>
+      <Class>Skin</Class>
+      <AnimatedTexture>
+         <File>playerskins</File>
+         <Index>69</Index>
+      </AnimatedTexture>
+      <PlayerClassType>0x031d</PlayerClassType>
+      <UnlockSpecial>DESCRIPTION</UnlockSpecial>
+      <DisplayId>{skins.NAMEHERE}</DisplayId>
+   </Object>
+   </Object>
+      <Object type="0xADDTYPEHERE" id="ADD NAME HERE">
+      <Skin/>
+      <Class>Skin</Class>
+      <AnimatedTexture>
+         <File>playerskins</File>
+         <Index>87</Index>
+      </AnimatedTexture>
+      <PlayerClassType>0x0325</PlayerClassType>
+      <UnlockSpecial>DESCRIPTION</UnlockSpecial>
+      <DisplayId>{skins.NAMEHERE}</DisplayId>
+   </Object>
+   
