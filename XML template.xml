@@ -1,0 +1,39 @@
+AddGold
+
+<Object type="0x66666" id="blahblahblah">
+<Class>Equipment</Class>
+<Item/>
+<Texture>
+<File>blahblahblah</File>
+<Index>0xnumber</Index>
+</Texture>
+<SlotType>0</SlotType>
+<Description>blahblahblah</Description>
+<Sound>use_potion</Sound>
+<Activate amount="666">AddGold</Activate>
+<Consumable/>
+<BagType>666</BagType>
+<feedPower>666</feedPower>
+<DisplayId>blahblahblah</DisplayId>
+</Object>
+
+
+
+AddFame
+
+<Object type="0x66666" id="blahblahblah">
+<Class>Equipment</Class>
+<Item/>
+<Texture>
+<File>blahblahblah</File>
+<Index>0xnumber</Index>
+</Texture>
+<SlotType>0</SlotType>
+<Description>blahblahblah</Description>
+<Sound>use_potion</Sound>
+<Activate amount="666">AddFame</Activate>
+<Consumable/>
+<BagType>666</BagType>
+<feedPower>666</feedPower>
+<DisplayId>blahblahblah</DisplayId>
+</Object>
